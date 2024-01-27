@@ -1,1 +1,1 @@
-# GameCommiteeStuff
+# GameCommitteeStuff
